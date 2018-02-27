@@ -1,0 +1,1 @@
+module.exports = 'title visual wall grocery clump spare story start aim now misery gentle';
